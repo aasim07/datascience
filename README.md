@@ -1,4 +1,5 @@
 # Awesome Data Science with Python
+Data Science & Machine Learning
 
 > A curated list of awesome resources for practicing data science using Python, including not only libraries, but also links to tutorials, code snippets, blog posts and talks.  
 
